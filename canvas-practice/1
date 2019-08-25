@@ -1,0 +1,19 @@
+
+> husky@3.0.4 install F:\GitHubRepository\FE\canvas-practice\node_modules\husky
+> node husky install
+
+husky > Setting up git hooks
+husky > Done
+
+> husky@3.0.4 postinstall F:\GitHubRepository\FE\canvas-practice\node_modules\husky
+> opencollective-postinstall || true
+
+[96m[1mThank you for using husky![96m[1m
+[0m[96mIf you rely on this package, please consider supporting our open collective:[22m[39m
+> [94mhttps://opencollective.com/husky/donate[0m
+
++ husky@3.0.4
++ lint-staged@9.2.3
+added 169 packages from 113 contributors and audited 10183 packages in 56.547s
+found 82 vulnerabilities (22 low, 35 moderate, 24 high, 1 critical)
+  run `npm audit fix` to fix them, or `npm audit` for details
